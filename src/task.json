@@ -1,0 +1,30 @@
+{
+  "tasks": [
+    {
+      "title": "go to the movies",
+      "where": "alfa centrum",
+      "description": "we are going to watch spiderman 3",
+      "date": "06.10"
+    },
+    {
+      "title": "doctors appointment",
+      "where": "medicover",
+      "description": "doctor Anna J, will check my eye",
+      "date": "06.02"
+    },
+    {
+      "title": "friends meeting",
+      "where": "klub zak",
+      "description": "we will go for a beer",
+      "date": "05.25"
+    },
+    {
+      "title": "study for data bases test",
+      "where": "wsb",
+      "description": "the topic will be joins",
+      "date": "05.27"
+    }
+  ]
+
+
+}
